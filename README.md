@@ -21,7 +21,7 @@ const seierk = {
 
 ## `whoami`
 
-Solo full-stack developer building developer tooling, on-chain infrastructure and production web applications. I work across the entire stack — database schema, API design, frontend UI and blockchain integrations — all handled independently.
+Solo full-stack developer building developer tooling, on-chain infrastructure and production web applications. I work across the entire stack. Database schema, API design, frontend UI and blockchain integrations. All handled independently.
 
 My focus is on systems that surface structured intelligence from raw data: analytics platforms, security tooling, launch infrastructure, AI-assisted generation and on-chain data pipelines. Everything I ship is production-grade, deployed and live.
 
@@ -48,16 +48,16 @@ DevOps           Vercel · Railway · Git
 Building systems that consume real on-chain data — fetching transaction histories, parsing account states, detecting program interactions, reading token metadata and running heuristic analysis on wallet behaviour. Working directly with Solana's RPC layer and Helius for NFT and token data.
 
 ### Developer Tooling & Infrastructure
-Tooling for developers and builders — systems that automate analysis, surface structured intelligence from raw data and deliver outputs people can act on. Risk scoring engines, launch readiness systems, heuristic contract scanners, AI-powered generation tools.
+Tooling for developers and builders. Systems that automate analysis, surface structured intelligence from raw data and deliver outputs people can act on. Risk scoring engines, launch readiness systems, heuristic contract scanners, AI-powered generation tools.
 
 ### Security & Analytics Systems
 Heuristic analysis systems for smart contract review, wallet risk profiling and token launch verification. Pattern matching across 30+ vulnerability categories, multi-dimensional weighted scoring, structured reports with findings, confidence levels, verdicts and recommended actions.
 
 ### AI-Assisted Generation
-Integrating large language models into production workflows — using AI to generate complete structured outputs grounded in real data pipelines. Not hallucinations, structured inputs in, structured outputs out.
+Integrating large language models into production workflows. Using AI to generate complete structured outputs grounded in real data pipelines. Not hallucinations, structured inputs in, structured outputs out.
 
 ### Agent-Compatible Infrastructure
-Building tools compatible with the x402 payment protocol — exposing APIs that AI agents can discover, call and pay for automatically without human intervention.
+Building tools compatible with the x402 payment protocol. Exposing APIs that AI agents can discover, call and pay for automatically without human intervention.
 
 ---
 
