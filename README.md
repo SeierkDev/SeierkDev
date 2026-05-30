@@ -45,7 +45,7 @@ DevOps           Vercel · Railway · Git
 ## `focus`
 
 ### On-Chain Data & Analytics
-Building systems that consume real on-chain data — fetching transaction histories, parsing account states, detecting program interactions, reading token metadata and running heuristic analysis on wallet behaviour. Working directly with Solana's RPC layer and Helius for NFT and token data.
+Building systems that consume real on-chain data. Fetching transaction histories, parsing account states, detecting program interactions, reading token metadata and running heuristic analysis on wallet behaviour. Working directly with Solana's RPC layer and Helius for NFT and token data.
 
 ### Developer Tooling & Infrastructure
 Tooling for developers and builders. Systems that automate analysis, surface structured intelligence from raw data and deliver outputs people can act on. Risk scoring engines, launch readiness systems, heuristic contract scanners, AI-powered generation tools.
