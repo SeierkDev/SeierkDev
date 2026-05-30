@@ -4,12 +4,15 @@
 const seierk = {
   role: "Full-Stack Developer",
   focus: ["Developer Tooling", "On-Chain Infrastructure", "Security Analytics"],
+  languages: ["TypeScript", "Python", "JavaScript", "CSS"],
   approach: "Solo builder. Production-grade. No demos.",
 };
 ```
 
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Seierk1)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Solana](https://img.shields.io/badge/Solana-%239945FF.svg?style=for-the-badge&logo=solana&logoColor=white)
 
 </div>
@@ -27,7 +30,7 @@ My focus is on systems that surface structured intelligence from raw data: analy
 ## `stack`
 
 ```
-Languages        TypeScript · JavaScript · SQL · HTML/CSS
+Languages        TypeScript · Python · JavaScript · SQL · HTML/CSS
 Frontend         Next.js 15 · React 19 · Tailwind CSS
 Backend          Node.js · Next.js API Routes · Hono · REST APIs
 Blockchain       Solana web3.js · SPL Token · Token-2022 · Helius RPC · DAS API
@@ -107,3 +110,4 @@ const outputs = {
 [![X](https://img.shields.io/badge/Follow%20on%20X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Seierk1)
 
 </div>
+
