@@ -1,113 +1,112 @@
-<div align="center">
+<p align="center">
+  <a href="https://github.com/Seierk">
+    <img src="https://readme-typing-svg.demolab.com/?lines=full-stack+developer;on-chain+infrastructure;security+tooling;solo+builder&font=JetBrains+Mono&center=true&width=500&height=50&color=14b8a6&vCenter=true&pause=1000&size=22&duration=3000" />
+  </a>
+</p>
+
+<p align="center">
+  <samp>building developer tooling, on-chain infrastructure and production systems</samp>
+</p>
+
+<p align="center">
+  <a href="https://x.com/Seierk1">
+    <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X" />
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Seierk&style=flat&color=14b8a6&label=profile+views" alt="Profile Views" />
+</p>
+
+---
 
 ```typescript
 const seierk = {
-  role: "Full-Stack Developer",
-  focus: ["Developer Tooling", "On-Chain Infrastructure", "Security Analytics"],
+  role:     "Full-Stack Developer",
+  focus:    ["Developer Tooling", "On-Chain Infrastructure", "Security Analytics"],
   languages: ["TypeScript", "Python", "JavaScript", "CSS"],
   approach: "Solo builder. Production-grade. No demos.",
 };
 ```
 
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Seierk1)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Solana](https://img.shields.io/badge/Solana-%239945FF.svg?style=for-the-badge&logo=solana&logoColor=white)
+---
 
-</div>
+### stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,python,js,react,nextjs,nodejs,postgres,tailwind&theme=dark&perline=8" />
+  </a>
+</p>
 
 ---
 
-## `whoami`
-
-Solo full-stack developer building developer tooling, on-chain infrastructure and production web applications. I work across the entire stack. Database schema, API design, frontend UI and blockchain integrations. All handled independently.
-
-My focus is on systems that surface structured intelligence from raw data: analytics platforms, security tooling, launch infrastructure, AI-assisted generation and on-chain data pipelines. Everything I ship is production-grade, deployed and live.
-
----
-
-## `stack`
+### what i build
 
 ```
-Languages        TypeScript · Python · JavaScript · SQL · HTML/CSS
-Frontend         Next.js 15 · React 19 · Tailwind CSS
-Backend          Node.js · Next.js API Routes · Hono · REST APIs
-Blockchain       Solana web3.js · SPL Token · Token-2022 · Helius RPC · DAS API
-Database         PostgreSQL · Prisma · SQLite
-Payments         USDC on-chain · x402 protocol · DexScreener API
-AI               Anthropic Claude API · Prompt engineering
-DevOps           Vercel · Railway · Git
+On-chain analytics and wallet intelligence systems
+Security tooling and smart contract analysis
+Token launch infrastructure and verification
+AI-assisted generation and structured output pipelines
+Agent-compatible APIs and x402 payment infrastructure
+Developer-facing SaaS and tooling marketplaces
 ```
 
 ---
 
-## `focus`
+### projects
 
-### On-Chain Data & Analytics
-Building systems that consume real on-chain data. Fetching transaction histories, parsing account states, detecting program interactions, reading token metadata and running heuristic analysis on wallet behaviour. Working directly with Solana's RPC layer and Helius for NFT and token data.
-
-### Developer Tooling & Infrastructure
-Tooling for developers and builders. Systems that automate analysis, surface structured intelligence from raw data and deliver outputs people can act on. Risk scoring engines, launch readiness systems, heuristic contract scanners, AI-powered generation tools.
-
-### Security & Analytics Systems
-Heuristic analysis systems for smart contract review, wallet risk profiling and token launch verification. Pattern matching across 30+ vulnerability categories, multi-dimensional weighted scoring, structured reports with findings, confidence levels, verdicts and recommended actions.
-
-### AI-Assisted Generation
-Integrating large language models into production workflows. Using AI to generate complete structured outputs grounded in real data pipelines. Not hallucinations, structured inputs in, structured outputs out.
-
-### Agent-Compatible Infrastructure
-Building tools compatible with the x402 payment protocol. Exposing APIs that AI agents can discover, call and pay for automatically without human intervention.
-
----
-
-## `principles`
-
-```typescript
-// Ship real things
-const approach = {
-  noPrototypes:     true,
-  noUnfinished:     true,
-  typeScriptStrict: true,
-  commentsOnlyWhen: "the WHY is non-obvious",
-  abstractions:     "only when the pattern repeats 3+ times",
-};
-
-// Build outputs worth exporting
-const outputs = {
-  structured:    true,  // scored, ranked, explained, actionable
-  realData:      true,  // live RPC calls, not mocked responses
-  explainable:   true,  // users understand WHY, not just WHAT
-  exportReady:   true,  // PDF, Markdown, plain text, JSON
-  confidenceAware: true // sparse data is flagged, not hidden
-};
-```
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Modulr</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white" />
+      </p>
+      <p align="center">x402 component marketplace for Solana developers — wallet intelligence, token launch verification, contract analysis</p>
+      <p align="center">
+        <a href="https://github.com/Modulr402">
+          <img src="https://img.shields.io/badge/github-14b8a6?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">more shipping soon</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/in_progress-14b8a6?style=flat-square&logoColor=white" />
+      </p>
+      <p align="center">building in public</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## `interests`
+### stats
 
-```
-→ On-chain analytics and wallet intelligence
-→ Security tooling and smart contract analysis
-→ Launch infrastructure for token projects
-→ AI-assisted developer workflows
-→ Agent-compatible payment infrastructure (x402)
-→ Developer-facing SaaS and tooling marketplaces
-```
+<p align="center">
+  <picture>
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Seierk&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&title_color=14b8a6&icon_color=14b8a6&text_color=c9d1d9&ring_color=14b8a6" height="170px"/>
+  </picture>
+  &nbsp;&nbsp;
+  <picture>
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seierk&langs_count=8&layout=compact&theme=transparent&hide_border=true&title_color=14b8a6&text_color=c9d1d9" height="170px"/>
+  </picture>
+</p>
+
+<p align="center">
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=Seierk&theme=transparent&hide_border=true&ring=14b8a6&fire=14b8a6&currStreakLabel=14b8a6&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" />
+</p>
+
+<p align="center">
+  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Seierk&bg_color=00000000&color=c9d1d9&line=14b8a6&point=14b8a6&hide_border=true&area=true&area_color=14b8a6" width="95%"/>
+</p>
 
 ---
 
-## `currently building`
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=14b8a6&height=80&section=footer" width="100%" />
+</p>
 
-> **Developer tooling and on-chain infrastructure for the Solana ecosystem.**
-> Wallet intelligence · Token launch verification · Smart contract analysis · AI-assisted generation
 
----
-
-<div align="center">
-
-[![X](https://img.shields.io/badge/Follow%20on%20X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Seierk1)
-
-</div>
 
