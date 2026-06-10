@@ -68,10 +68,6 @@ Developer-facing SaaS and tooling marketplaces
         <a href="https://github.com/SeierkDev/Axon">
           <img src="https://img.shields.io/badge/github-14b8a6?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
-        &nbsp;
-        <a href="https://axon-agents.com">
-          <img src="https://img.shields.io/badge/live-14b8a6?style=for-the-badge&logoColor=white"/>
-        </a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -97,7 +93,7 @@ Developer-facing SaaS and tooling marketplaces
 
 <p align="center">
   <picture>
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SeierkDev&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&title_color=14b8a6&icon_color=14b8a6&text_color=c9d1d9&ring_color=14b8a6" height="170px"/>
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SeierkDev&show_icons=true&count_private=true&theme=transparent&hide_border=true&title_color=14b8a6&icon_color=14b8a6&text_color=c9d1d9&ring_color=14b8a6" height="170px"/>
   </picture>
   &nbsp;&nbsp;
   <picture>
