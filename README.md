@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/Seierk">
+  <a href="https://github.com/SeierkDev">
     <img src="https://readme-typing-svg.demolab.com/?lines=full-stack+developer;on-chain+infrastructure;security+tooling;solo+builder&font=JetBrains+Mono&center=true&width=500&height=50&color=14b8a6&vCenter=true&pause=1000&size=22&duration=3000" />
   </a>
 </p>
@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X" />
   </a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Seierk&style=flat&color=14b8a6&label=profile+views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=SeierkDev&style=flat&color=14b8a6&label=profile+views" alt="Profile Views" />
 </p>
 
 ---
@@ -57,6 +57,24 @@ Developer-facing SaaS and tooling marketplaces
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3 align="center">Axon</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white" />
+      </p>
+      <p align="center">Open infrastructure protocol for agent-to-agent coordination, payments, and reputation — identity, discovery, tasks, x402 payments, and reputation in one open stack</p>
+      <p align="center">
+        <a href="https://github.com/SeierkDev/Axon">
+          <img src="https://img.shields.io/badge/github-14b8a6?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+        &nbsp;
+        <a href="https://axon-agents.com">
+          <img src="https://img.shields.io/badge/live-14b8a6?style=for-the-badge&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
       <h3 align="center">Modulr</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
@@ -70,13 +88,6 @@ Developer-facing SaaS and tooling marketplaces
         </a>
       </p>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">more shipping soon</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/in_progress-14b8a6?style=flat-square&logoColor=white" />
-      </p>
-      <p align="center">building in public</p>
-    </td>
   </tr>
 </table>
 
@@ -86,20 +97,20 @@ Developer-facing SaaS and tooling marketplaces
 
 <p align="center">
   <picture>
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Seierk&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&title_color=14b8a6&icon_color=14b8a6&text_color=c9d1d9&ring_color=14b8a6" height="170px"/>
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SeierkDev&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&title_color=14b8a6&icon_color=14b8a6&text_color=c9d1d9&ring_color=14b8a6" height="170px"/>
   </picture>
   &nbsp;&nbsp;
   <picture>
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seierk&langs_count=8&layout=compact&theme=transparent&hide_border=true&title_color=14b8a6&text_color=c9d1d9" height="170px"/>
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeierkDev&langs_count=8&layout=compact&theme=transparent&hide_border=true&title_color=14b8a6&text_color=c9d1d9" height="170px"/>
   </picture>
 </p>
 
 <p align="center">
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=Seierk&theme=transparent&hide_border=true&ring=14b8a6&fire=14b8a6&currStreakLabel=14b8a6&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" />
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=SeierkDev&theme=transparent&hide_border=true&ring=14b8a6&fire=14b8a6&currStreakLabel=14b8a6&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" />
 </p>
 
 <p align="center">
-  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Seierk&bg_color=00000000&color=c9d1d9&line=14b8a6&point=14b8a6&hide_border=true&area=true&area_color=14b8a6" width="95%"/>
+  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=SeierkDev&bg_color=00000000&color=c9d1d9&line=14b8a6&point=14b8a6&hide_border=true&area=true&area_color=14b8a6" width="95%"/>
 </p>
 
 ---
@@ -107,6 +118,3 @@ Developer-facing SaaS and tooling marketplaces
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=14b8a6&height=80&section=footer" width="100%" />
 </p>
-
-
-
