@@ -91,8 +91,6 @@ Developer-facing SaaS and tooling marketplaces
 
 ### stats
 
-<p align="center">
-  <picture>
 <!-- github-readme-stats.vercel.app (the project's shared public instance) is
      over quota and returns 503, so its cards render as broken images. Community
      mirrors of it exist but the one tried ignored every styling parameter and
