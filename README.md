@@ -93,11 +93,16 @@ Developer-facing SaaS and tooling marketplaces
 
 <p align="center">
   <picture>
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SeierkDev&show_icons=true&count_private=true&theme=transparent&hide_border=true&title_color=14b8a6&icon_color=14b8a6&text_color=c9d1d9&ring_color=14b8a6" height="170px"/>
+<!-- Stats cards: github-readme-stats.vercel.app (the project's shared public
+     instance) went 503 and stayed there — it is chronically over quota, which is
+     why the maintainers tell you to run your own. Pointing at a working instance
+     for now. To self-host: deploy github-readme-stats to your own Vercel and
+     change the two hostnames below to it — nothing else needs to change. -->
+    <img alt="GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SeierkDev&show_icons=true&count_private=true&theme=transparent&hide_border=true&title_color=14b8a6&icon_color=14b8a6&text_color=c9d1d9&ring_color=14b8a6" height="170px"/>
   </picture>
   &nbsp;&nbsp;
   <picture>
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeierkDev&langs_count=8&layout=compact&theme=transparent&hide_border=true&title_color=14b8a6&text_color=c9d1d9" height="170px"/>
+    <img alt="Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SeierkDev&langs_count=8&layout=compact&theme=transparent&hide_border=true&title_color=14b8a6&text_color=c9d1d9" height="170px"/>
   </picture>
 </p>
 
