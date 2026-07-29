@@ -93,17 +93,28 @@ Developer-facing SaaS and tooling marketplaces
 
 <p align="center">
   <picture>
-<!-- Stats cards: github-readme-stats.vercel.app (the project's shared public
-     instance) went 503 and stayed there — it is chronically over quota, which is
-     why the maintainers tell you to run your own. Pointing at a working instance
-     for now. To self-host: deploy github-readme-stats to your own Vercel and
-     change the two hostnames below to it — nothing else needs to change. -->
-    <img alt="GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SeierkDev&show_icons=true&count_private=true&theme=transparent&hide_border=true&title_color=14b8a6&icon_color=14b8a6&text_color=c9d1d9&ring_color=14b8a6" height="170px"/>
-  </picture>
-  &nbsp;&nbsp;
-  <picture>
-    <img alt="Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SeierkDev&langs_count=8&layout=compact&theme=transparent&hide_border=true&title_color=14b8a6&text_color=c9d1d9" height="170px"/>
-  </picture>
+<!-- github-readme-stats.vercel.app (the project's shared public instance) is
+     over quota and returns 503, so its cards render as broken images. Community
+     mirrors of it exist but the one tried ignored every styling parameter and
+     served a fixed light card — worse than broken, because it looks wrong.
+     Using github-profile-summary-cards meanwhile: it honours themes properly,
+     so these match the rest of the page.
+
+     TO GET THE ORIGINAL CARDS BACK (teal, transparent, full language
+     breakdown): fork anuraghazra/github-readme-stats, deploy it to your own
+     Vercel, add a PAT_1 env var (a GitHub token — that is also what makes
+     count_private=true actually count private repos), then restore:
+
+     <img alt="GitHub Stats" src="https://YOUR-INSTANCE.vercel.app/api?username=SeierkDev&show_icons=true&count_private=true&theme=transparent&hide_border=true&title_color=14b8a6&icon_color=14b8a6&text_color=c9d1d9&ring_color=14b8a6" height="170px"/>
+     <img alt="Top Languages" src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=SeierkDev&langs_count=8&layout=compact&theme=transparent&hide_border=true&title_color=14b8a6&text_color=c9d1d9" height="170px"/>
+-->
+<p align="center">
+  <img alt="GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SeierkDev&theme=github_dark" height="200px"/>
+  <img alt="Most Committed Language" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SeierkDev&theme=github_dark" height="200px"/>
+</p>
+
+<p align="center">
+  <img alt="Productive Time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SeierkDev&theme=github_dark&utcOffset=2" height="200px"/>
 </p>
 
 <p align="center">
