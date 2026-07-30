@@ -42,6 +42,7 @@ const seierk = {
 ### what i build
 
 ```
+Browser automation learned from demonstration, with verifiable execution
 On-chain analytics and wallet intelligence systems
 Security tooling and smart contract analysis
 Token launch infrastructure and verification
@@ -57,6 +58,23 @@ Developer-facing SaaS and tooling marketplaces
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3 align="center">Aemulus</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white" />
+      </p>
+      <p align="center">Automate any browser task by demonstrating it, not coding it. Aemulus learns the intent behind a recorded task, runs it autonomously, and seals tamper-evident proof of every step. Skill marketplace with on-chain creator earnings.</p>
+      <p align="center">
+        <a href="https://aemulusai.com">
+          <img src="https://img.shields.io/badge/website-14b8a6?style=for-the-badge&logoColor=white"/>
+        </a>
+        <a href="https://github.com/SeierkDev/Aemulus">
+          <img src="https://img.shields.io/badge/github-14b8a6?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
       <h3 align="center">Axon</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
@@ -70,6 +88,8 @@ Developer-facing SaaS and tooling marketplaces
         </a>
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">Modulr</h3>
       <p align="center">
@@ -84,6 +104,7 @@ Developer-facing SaaS and tooling marketplaces
         </a>
       </p>
     </td>
+    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
