@@ -58,6 +58,23 @@ Developer-facing SaaS and tooling marketplaces
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3 align="center">Aetheron</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white" />
+      </p>
+      <p align="center">Pay per call AI components settled over HTTP 402 on Solana. No signup, no subscription, no card. Five components, nine downloadable agent templates, a TypeScript SDK, and the payment verifier itself, all open source.</p>
+      <p align="center">
+        <a href="https://aetheronprotocol.com">
+          <img src="https://img.shields.io/badge/website-14b8a6?style=for-the-badge&logoColor=white"/>
+        </a>
+        <a href="https://github.com/Aetheron402/Aetheron">
+          <img src="https://img.shields.io/badge/github-14b8a6?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
       <h3 align="center">Aemulus</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
@@ -74,6 +91,8 @@ Developer-facing SaaS and tooling marketplaces
         </a>
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">Axon</h3>
       <p align="center">
@@ -88,8 +107,6 @@ Developer-facing SaaS and tooling marketplaces
         </a>
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3 align="center">Modulr</h3>
       <p align="center">
@@ -104,7 +121,6 @@ Developer-facing SaaS and tooling marketplaces
         </a>
       </p>
     </td>
-    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
